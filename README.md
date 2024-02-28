@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eeeextend&hide=issues&show_icons=true)
+
+
+![Visitor Count](https://profile-counter.glitch.me/Eeeextend/count.svg)
