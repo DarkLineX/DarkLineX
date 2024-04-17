@@ -2,6 +2,8 @@
 
 🔭 I’m currently working on
 
+- Mobile Phone System and Application Security Research.(Android/iOS/harmonyOS)
+- Mobile application risk control strategy analysis and sample data collection.
 
 🌱 I’m currently learning
 
