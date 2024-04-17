@@ -10,6 +10,7 @@
 
 - Learn to write application tools in the Rust programming language.
 - Learn to use the heroes of lol.
+- Research on container virtualization systems.
 
   
 👯 I’m looking to collaborate on
