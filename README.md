@@ -4,8 +4,12 @@
 
 - Mobile Phone System and Application Security Research.(Android/iOS/harmonyOS)
 - Mobile application risk control strategy analysis and sample data collection.
+- ELF (.so/.o) binary disassembly study.
 
 🌱 I’m currently learning
+
+- Learn to write application tools in the Rust programming language.
+- Learn to use the heroes of lol.
 
   
 👯 I’m looking to collaborate on
