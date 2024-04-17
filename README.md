@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there a little bit about me
 
 🔭 I’m currently working on
 
