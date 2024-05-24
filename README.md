@@ -33,7 +33,7 @@
   
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eeeextend&langs_count=8)](https://github.com/ElfHunter268/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElfHunter268&langs_count=8)](https://github.com/ElfHunter268/github-readme-stats)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElfHunter268&hide=issues&show_icons=true)
