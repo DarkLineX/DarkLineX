@@ -9,30 +9,16 @@
 🌱 I’m currently learning
 
 - Learn to write application tools in the Rust programming language.
-- Learn to use the heroes of lol.
 - Research on container virtualization systems.
 
-  
 👯 I’m looking to collaborate on
-
-  
 🤔 I’m looking for help with
-
-  
 💬 Ask me about
-
-  
 📫 How to reach me:
-
-  
 😄 Pronouns:
-
-  
 ⚡ Fun fact:
 
   
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkLineX&langs_count=8)](https://github.com/DarkLineX/github-readme-stats)
 
 
