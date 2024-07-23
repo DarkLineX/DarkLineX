@@ -33,10 +33,10 @@
   
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElfHunter268&langs_count=8)](https://github.com/ElfHunter268/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkLineX&langs_count=8)](https://github.com/DarkLineX/github-readme-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElfHunter268&hide=issues&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkLineX&hide=issues&show_icons=true)
 
 
-![Visitor Count](https://profile-counter.glitch.me/ElfHunter268/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/DarkLineX/count.svg)
