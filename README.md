@@ -1,7 +1,7 @@
 ### 工作研究
 
 - 移动安全逆向(Android/iOS/鸿蒙)与开发
-- Aosp系统定制裁剪，云手机系统开发
+- AOSP系统定制裁剪，云手机系统开发
 - 指纹风控多开设备系统研究
 - xposed/lsp/magisk/ksu/apatch 插件开发与研究
 
