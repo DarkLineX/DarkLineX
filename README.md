@@ -10,9 +10,7 @@
 ### 文章作品
 
 
-<p>
-  ![Visitor Count](https://profile-counter.glitch.me/DarkLineX/count.svg)
-</p>
+![Visitor Count](https://profile-counter.glitch.me/DarkLineX/count.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkLineX&langs_count=8)](https://github.com/DarkLineX/github-readme-stats)
 
