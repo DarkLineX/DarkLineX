@@ -9,6 +9,8 @@
 
 ### 文章作品
 
+[DarkLineX博客](https://darklinex.blogspot.com)
+
 
 ### 总浏览量:![Visitor Count](https://profile-counter.glitch.me/DarkLineX/count.svg)
 
