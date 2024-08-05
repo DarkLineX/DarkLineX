@@ -11,7 +11,7 @@
 
 ### 文章作品
 
-[点击前往(需要挂VPN)>>DarkLineX博客](https://darklinex.blogspot.com)
+[点击前往>>DarkLineX博客](http://123.58.210.14/)
 
 
 ### 总浏览量:![Visitor Count](https://profile-counter.glitch.me/DarkLineX/count.svg)
