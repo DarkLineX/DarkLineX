@@ -11,7 +11,7 @@
 
 ### 文章作品
 
-[点击前往>>博客地址需要梯子]([http://123.58.210.14/](https://darklinex.blogspot.com/))
+[点击前往>>博客地址需要梯子](https://darklinex.blogspot.com/)
 
 
 ### 总浏览量:![Visitor Count](https://profile-counter.glitch.me/DarkLineX/count.svg)
