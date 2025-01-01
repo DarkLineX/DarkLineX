@@ -9,11 +9,6 @@
 - 鸿蒙开发
 ### 兴趣爱好
 
-### 文章作品
-
-[点击前往>>DrakLineX的个人博客](http://123.58.210.14/)
-
-
 ### 总浏览量:![Visitor Count](https://profile-counter.glitch.me/DarkLineX/count.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkLineX&langs_count=8)](https://github.com/DarkLineX/github-readme-stats)
